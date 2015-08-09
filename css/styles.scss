@@ -125,3 +125,26 @@ body {
     }
         
 }
+
+@media (max-width: 700px){ 
+    .landing {
+        img {
+            width: 40vh;
+            padding-top: 5%;
+        }
+    }
+    .text {
+        line-height: 1.5em;
+        font-size: 1.3em;
+        padding: 40px 50px;
+    }
+}
+
+@media (min-width: 1200px){ 
+    .landing {
+        img {
+            width: 60vh;
+            padding-top: 5%;
+        }
+    }
+}
