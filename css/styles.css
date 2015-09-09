@@ -36,12 +36,12 @@ body {
     background-color: #56d6c2; }
 
 .info {
-  background-color: #4c4c4c; }
+  background-color: #000; }
   .info .fa {
     text-align: center;
     font-size: 8em; }
   .info .col-md-4 {
-    background-color: #4c4c4c;
+    background-color: #000;
     text-align: center;
     padding: 30px; }
   .info h3 {
